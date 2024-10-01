@@ -1,0 +1,59 @@
+.footerText {
+    font-family: "Syne", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 200px;
+}
+
+.text {
+    font-family: "Syne", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FF9142;
+    text-align: center;
+    font-weight: 700;
+    padding-top: 200px;
+}
+
+.bg {
+    background-size: cover;
+    background-color: #131313;
+}
+
+.textMail {
+    font-family: "Syne", sans-serif;
+    padding-top: 52px;
+    font-size: 64px;
+    text-align: center;
+}
+
+.link {
+    color: #FFF;
+}
+
+.imgLogo {
+    padding-top: 284px;
+    padding-left: 156px;
+}
+
+.footerBorder {
+	border-bottom: 1px solid #949494;
+}
+
+.footerLastText {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: "Syne", sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+
+.icons {
+    padding-top: 15px;
+}
+
+.icons a {
+    color: #C4C4C4;
+}

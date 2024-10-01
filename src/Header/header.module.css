@@ -1,0 +1,36 @@
+.headerImg {
+    padding-top: 40px;
+    padding-left: 150px;
+}
+
+.nav {
+    background-color: #171717;
+    display: flex;
+    color: #03030480;
+    justify-content: space-between;
+}
+
+.navText {
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    justify-content: space-between;
+    padding-top: 40px;
+    display: flex;
+    padding-right: 150px;
+    gap: 30px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: #5e656b;
+}
+
+.nav a:hover {
+    color: #fff;
+    border-style: solid;
+    border-radius: 30px;
+    padding: 15px 35px;
+    border-width: 2px;
+    border-color: #5e656b;
+}
+
